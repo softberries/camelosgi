@@ -1,0 +1,55 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache ServiceMix
+
+
+From: 'an unknown organization'
+  - AOP alliance  aopalliance:aopalliance:jar:1.0
+    License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl.html)
+  - JavaBeans Activation Framework (JAF) (http://java.sun.com/products/javabeans/jaf/index.jsp) javax.activation:activation:jar:1.1
+    License: Common Development and Distribution License (CDDL) v1.0  (https://glassfish.dev.java.net/public/CDDLv1.0.html)
+  - Streaming API for XML  javax.xml.stream:stax-api:jar:1.0-2
+    License: GNU General Public Library  (http://www.gnu.org/licenses/gpl.txt)    License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (http://www.sun.com/cddl/cddl.html)
+  - spring-aop  org.springframework:spring-aop:jar:3.0.5.RELEASE
+
+  - spring-asm  org.springframework:spring-asm:jar:3.0.5.RELEASE
+
+  - spring-beans  org.springframework:spring-beans:jar:3.0.5.RELEASE
+
+  - spring-context  org.springframework:spring-context:jar:3.0.5.RELEASE
+
+  - spring-core  org.springframework:spring-core:jar:3.0.5.RELEASE
+
+  - spring-expression  org.springframework:spring-expression:jar:3.0.5.RELEASE
+
+  - spring-tx  org.springframework:spring-tx:jar:3.0.5.RELEASE
+
+
+From: 'FuseSource' (http://www.fusesource.org)
+  - Commons Management (http://commonman.fusesource.org) org.fusesource.commonman:commons-management:bundle:1.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'FuseSource Community' (http://fusesource.com)
+  - Camel :: JAXB (http://fusesource.com/products/enterprise-camel/camel-parent/camel-jaxb/) org.apache.camel:camel-jaxb:bundle:2.8.0-fuse-01-11
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Spring (http://fusesource.com/products/enterprise-camel/camel-parent/camel-spring/) org.apache.camel:camel-spring:bundle:2.8.0-fuse-01-11
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Sun Microsystems' (http://www.sun.com/)
+  - Sun JAXB Reference Implementation Runtime (https://jaxb.dev.java.net/jaxb-impl) com.sun.xml.bind:jaxb-impl:jar:2.1.13:compile
+    License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (http://www.sun.com/cddl/cddl.html)
+  - Java Architecture for XML Binding (JAXB API)  javax.xml.bind:jaxb-api:jar:2.1:compile
+    License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (http://www.sun.com/cddl/cddl.html)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Logging (http://commons.apache.org/logging) commons-logging:commons-logging:jar:1.1.1:compile
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Core (http://fusesource.com/products/enterprise-camel/camel-parent/camel-core/camel-core) org.apache.camel:camel-core:jar:2.8.0-fuse-01-11:compile
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
